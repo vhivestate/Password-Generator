@@ -12,7 +12,7 @@ However, if user inputs a number less than 8 or greater than 128 they will have 
 * HTML
 
 ### Web link:
-- My [website](https://vhivestate.github.io/password-generator/)
+- My [website](https://vhivestate.github.io/Password-Generator/)
 
 ## Screenshot
 ![Password-gen-Screenshot](./assets/pw-gen-ss.png)
